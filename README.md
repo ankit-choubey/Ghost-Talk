@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👻 GHOST-TALK
+# GHOST-TALK
 ### **Secure. Ephemeral. Encrypted.**
 *A Billionaire-Tier LAN Messaging Terminal for the Modern Age.*
 
