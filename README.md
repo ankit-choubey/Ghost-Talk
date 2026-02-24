@@ -13,7 +13,7 @@
 
 ---
 
-## 📜 Mission Brief
+## Mission Brief
 
 **Ghost-Talk** is not just a chat app; it is a **cyber-security statement**. 
 
@@ -23,7 +23,7 @@ With its custom **"Neural Float"** physics engine and **Matrix-style decryption 
 
 ---
 
-## 🧠 Core Architecture: The Doubly Linked List
+## Core Architecture: The Doubly Linked List
 
 Unlike standard apps that use heavy `std::vector` containers, Ghost-Talk manages memory manually using a **Custom Doubly Linked List**. This demonstrates low-level memory mastery and O(1) efficiency.
 
@@ -40,28 +40,28 @@ Unlike standard apps that use heavy `std::vector` containers, Ghost-Talk manages
 
 ---
 
-## ✨ Key Capabilities
+## Key Capabilities
 
-### 🛡️ The Ghost Protocol (Network Layer)
+### The Ghost Protocol (Network Layer)
 
 - **Zero-Trace Architecture:** Messages exist only in RAM. Closing the app triggers an immediate memory wipe.
 - **XOR Encryption:** All packets are scrambled before leaving your machine, rendering them unreadable to packet sniffers.
 - **LAN Auto-Discovery:** Instantly detects and displays your Local IP address.
 
-### ⚛️ Physics-Enabled UI
+### Physics-Enabled UI
 
 - **Neural Float:** Messages don't sit still. They bob gently in a zero-gravity simulation (`sin(time)`), connected by dynamic neural links.
 - **Projectile Data Flow:** Visualize network traffic as glowing "Data Orbs" fly physically from sender to receiver.
 - **Matrix Decrypt:** Incoming messages appear as raw binary garbage (`#@!%`) before mathematically resolving into readable text.
 
-### 🧨 Self-Destruct Mode (Red Alert)
+### Self-Destruct Mode (Red Alert)
 
 - **Ephemeral Nodes:** Activate the **[!]** toggle to send "Burn After Reading" messages.
 - **Visual Warning:** Red-pulsing bubbles alert the recipient of the message's volatile nature.
 
 ---
 
-## ⚠️ Installation: Things to Consider
+## Installation: Things to Consider
 
 ### 1. The Audio Asset (Crucial)
 
@@ -77,14 +77,14 @@ Unlike standard apps that use heavy `std::vector` containers, Ghost-Talk manages
 
 ---
 
-## 🛠️ Compilation Guide
+## Compilation Guide
 
-### ⚡ macOS (M-Series / Intel)
+### macOS (M-Series / Intel)
 
 *Prerequisites: Install Raylib via Homebrew (`brew install raylib`).*
 
 
-### ⚡ Windows (Visual Studio)
+### Windows (Visual Studio)
 
 - **Setup:** Create an Empty C++ Project.
 - **Dependencies:** Add raylib to your Include/Library directories.
@@ -93,7 +93,7 @@ Unlike standard apps that use heavy `std::vector` containers, Ghost-Talk manages
 
 ---
 
-## 🎮 Operational Manual
+## Operational Manual
 
 ### Phase 1: Initialization
 
@@ -111,7 +111,7 @@ Unlike standard apps that use heavy `std::vector` containers, Ghost-Talk manages
 
 ---
 
-## 👥 Credits
+## Credits
 
 - **Architect:** [Master AK](https://github.com/CodeHashiraX)
 - **Engine:** Raylib 5.0
